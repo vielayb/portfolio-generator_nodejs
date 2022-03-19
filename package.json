@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator_nodejs",
+  "version": "1.0.0",
+  "description": "* Portfolio Generator with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vielayb/portfolio-generator_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vielayb/portfolio-generator_nodejs/issues"
+  },
+  "homepage": "https://github.com/vielayb/portfolio-generator_nodejs#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
+}
